@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>question_thread</module>
+        <module>question_designMode</module>
+        <module>question_java</module>
     </modules>
 
     <properties>
